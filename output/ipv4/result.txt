@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-27 06:36:07,http://74.91.26.218:82/live/cctv4hd.m3u8
+2026-02-27 18:39:21,http://74.91.26.218:82/live/cctv4hd.m3u8
 
 📺央视频道,#genre#
 CCTV-4,http://74.91.26.218:82/live/cctv4hd.m3u8
@@ -15,7 +15,6 @@ CCTV-4,http://74.91.26.218:82/live/cctv4hd.m3u8
 
 ☘️广东频道,#genre#
 广东新闻,https://satellitepull.cnr.cn/live/wxgdxwgb/playlist.m3u8
-汕头文旅,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=e8fcaf&tk=822270345d4c
 
 🌊港·澳·台,#genre#
 明珠台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=23
@@ -26,6 +25,4 @@ CCTV-4,http://74.91.26.218:82/live/cctv4hd.m3u8
 星卫娱乐,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
 
 🏀体育频道,#genre#
-天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
-天津体育,http://ak.cj022.com:10080/hls/6/index.m3u8
 天津体育,http://sun135790.x3322.net:9901/tsfile/live/16006_1.m3u8?key=txiptv&playlive=1&authid=0
